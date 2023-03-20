@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <None Update="..\.dockerignore">
-      <DependentUpon>dockerfile</DependentUpon>
+      <DependentUpon>Dockerfile</DependentUpon>
     </None>
   </ItemGroup>
 
